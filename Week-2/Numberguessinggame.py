@@ -5,7 +5,7 @@ name = input()
 print('Hi ' + name)
 print('Lets play a game!')
 
-#picking a number
+#picking a number yes
 print('Guess the number between 1 and 10 that i am thinking of')
 import random
 Computerguess = random.randint(1,10)
